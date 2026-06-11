@@ -6,7 +6,7 @@
 
 # Hello, I'm autoUnmask
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Linux+Enthusiast;Open+Source+Contributor;Backend+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Linux+Enthusiast;Open+Source+Contributor;Backend+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br>
 
