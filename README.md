@@ -1,73 +1,85 @@
 <!-- ========================================================= -->
-<!--                GITHUB PROFILE LANDING PAGE               -->
+<!--                GITHUB PROFILE LANDING PAGE                -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 # Hello, I'm autoUnmask
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Linux+Enthusiast;Open+Source+Contributor;Backend+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&color=a0de59&lines=Software+Engineer;Linux+Enthusiast;Open+Source+Contributor;Backend+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/autoUnmask">
-    <img src="https://img.shields.io/github/followers/autoUnmask?style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/autoUnmask?style=for-the-badge&color=5f2a62&labelColor=1a1a1a&logo=github">
 </a>
-
 <a href="https://github.com/autoUnmask">
-    <img src="https://img.shields.io/github/stars/autoUnmask?style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/autoUnmask?style=for-the-badge&color=a0de59&labelColor=1a1a1a&logo=github">
+</a>
+<a href="mailto:richardoluoch2015@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-f5c024?style=for-the-badge&labelColor=1a1a1a&logo=gmail">
 </a>
 
-<a href="mailto:richardoluoch2015@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge">
-</a>
+<br><br>
+
+[ PROJECTS ](#-featured-projects) :: [ TECH STACK ](#-tech-stack) :: [ ANALYTICS ](#-github-analytics) :: [ CONNECT ](#connect)
 
 </div>
 
 ---
 
-##  About Me
+## [ STATUS // SYSTEM_INFO ]
 
-```text
-┌──────────────────────────────────────────┐
-│ OS       : NixOS                         │
-│ Editor   : Neovim                        │
-│ Shell    : Fish                          │
-│ WM       : Hyprland                      │
-│ Stack    : C • Java • PHP • JS • Linux   │
-│ Status   : Building cool things          │
-└──────────────────────────────────────────┘
-```
+<div align="center">
 
-I enjoy building software, automating workflows, customizing Linux environments,
-and exploring open-source technologies.
+| CODE | PARAMETER | VALUE | CONFIGURATION |
+| :---: | :--- | :--- | :--- |
+| `[OS]` | **Operating System** | `NixOS` | Declarative / Reproducible |
+| `[ED]` | **Text Editor** | `Neovim` | Lua-based Custom Environment |
+| `[SH]` | **Shell** | `Fish` | Modern Interactive CLI |
+| `[WM]` | **Window Manager** | `Hyprland` | Wayland Dynamic Compositor |
+| `[ST]` | **Active Stack** | `C • Java • Rust • Go` | Systems Programming |
+
+</div>
+
+> "Build things that solve real problems. Keep systems simple. Automate repetitive work."
 
 ---
 
-##  Current Focus
+## [ FEATURED_PROJECTS ]
+
+| PROJECT | PRIMARY TECH | DESCRIPTION |
+| :--- | :--- | :--- |
+| **Bus Tracking System** | `Python // Rust` | Real-time public transit tracking and ticketing system. |
+| **Attendance System** | `Java // Spring` | Local file integrity tracking and student register suite. |
+| **NixOS Config** | `Nix` | Fully declarative dotfiles utilizing Nix Flakes. |
+| **Neovim Config** | `Lua` | Highly tailored workflow featuring Oil.nvim and Neo-tree. |
+
+---
+
+## [ CURRENT_FOCUS ]
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-###  Learning
+### [ DEPLOYING // LEARNING ]
 
-- Advanced Nix & Flakes
-- Linux System Engineering
-- Software Architecture
-- Backend Development
+* Advanced Nix & Flakes
+* Linux System Engineering
+* Software Architecture
+* Systems-level Backend Development
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-###  Working On
+### [ EXECUTING // WORKING_ON ]
 
-- Attendance Management System
-- Bus Tracking System
-- Neovim Configuration
-- Open Source Projects
-- NixOS Configs
+* Real-Time Transit Engines
+* File Integrity Tools
+* Personal Environment Configs
+* Upstream Open Source Patches
 
 </td>
 </tr>
@@ -75,152 +87,55 @@ and exploring open-source technologies.
 
 ---
 
-##  Tech Stack
+## [ TECH_STACK ]
 
 ### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,php,javascript,bash,html,rust,css,golang"/>
+  <img src="https://skillicons.dev/icons?i=c,java,php,javascript,bash,html,rust,css,golang&theme=dark"/>
 </p>
 
-### Development
-
+### Development & Environments
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim&theme=dark"/>
 </p>
 
-### Systems
-
+### Systems & Architecture
 <p>
-<img src="https://skillicons.dev/icons?i=nix,docker"/>
+  <img src="https://skillicons.dev/icons?i=nix,docker&theme=dark"/>
 </p>
 
 ---
 
-##  GitHub Analytics
+## [ GITHUB_ANALYTICS ]
+
+<!-- 
+  Custom styling applied to match the Evangelion/NERD-01 palette:
+  - Title Color: a0de59 (Toxic Neon Green)
+  - Text Color: ffffff (White)
+  - Icon Color: f5c024 (NERV Orange)
+  - BG Color: 120d16 (Deep Eva Purple hue)
+-->
+| | |
+| --- | --- |
+| <img src="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true&title_color=a0de59&icon_color=f5c024&text_color=ffffff&bg_color=120d16&hide_border=true" height="170px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact&title_color=a0de59&icon_color=f5c024&text_color=ffffff&bg_color=120d16&hide_border=true" height="170px" /> |
+
+---
+
+## [ CONTRIBUTION_STREAK ]
 
 <div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true&theme=gruvbox"
-    media="(prefers-color-scheme: light)"
-  />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true">
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact&theme=gruvbox"
-    media="(prefers-color-scheme: light)"
-  />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact">
-</picture>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=autoUnmask&currStreakNum=a0de59&sideNums=ffffff&sideLabels=a976c3&dates=f5c024&background=120d16&hide_border=true" />
 </div>
 
 ---
 
-##  Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=autoUnmask&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=autoUnmask&theme=gruvbox-light"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=autoUnmask">
-</picture>
-
-</div>
-
----
-
-##  Open Source Journey
+## [ DEVELOPER_TIMELINE ]
 
 ```mermaid
 timeline
-    title My Developer Journey
-
-    2018 : Started Programming
-    2028 : Learned Linux
-    2024 : NixOS Migration
-    2025 : Open Source Contributions
-    2026 : Building Full Projects
-```
-
----
-
-<details>
-<summary><b> Featured Projects</b></summary>
-
-<br>
-
-| Project | Description |
-|----------|------------|
-|  Bus Tracking System | Real-time SACCO tracking |
-|  Attendance System | Student attendance platform |
-|  NixOS Config | Fully declarative setup |
-|  Neovim Config | Modern Lua-based workflow |
-
-</details>
-
----
-
-<details>
-<summary><b> Developer Philosophy</b></summary>
-
-<br>
-
-> Build things that solve real problems.
->
-> Keep systems simple.
->
-> Automate repetitive work.
->
-> Learn continuously.
-
-</details>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/autoUnmask">
-<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://linkedin.com/in/#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:richardoluoch2015@outlook.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🦊 Gruvbox Light ☀️ • Kanagawa Dark 🌙
-
-<img src="https://komarev.com/ghpvc/?username=autoUnmask&style=for-the-badge">
-
-</div>
+    title EVA_01: System Evolution
+    2018 : Terminal Initialization (Programming Start)
+    2021 : Kernel Migration (Linux Switch)
+    2024 : System Declaration (NixOS Upgrade)
+    2025 : Core Expansion (Open Source Contributions)
+    2026 : Full Stack Deployment (Active Builds)
