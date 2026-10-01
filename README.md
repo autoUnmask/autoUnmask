@@ -1,141 +1,183 @@
-<!-- ========================================================= -->
-<!--                GITHUB PROFILE LANDING PAGE                -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-# Hello, I'm autoUnmask
+# Richard Oluoch
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=600&color=a0de59&lines=Software+Engineer;Linux+Enthusiast;Open+Source+Contributor;Backend+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+### Software Developer · Backend & Systems Engineering · Linux
 
-<br>
+Building practical software, backend services, and Linux-based systems.
 
-<a href="https://github.com/autoUnmask">
-    <img src="https://img.shields.io/github/followers/autoUnmask?style=for-the-badge&color=5f2a62&labelColor=1a1a1a&logo=github">
-</a>
-<a href="https://github.com/autoUnmask">
-    <img src="https://img.shields.io/github/stars/autoUnmask?style=for-the-badge&color=a0de59&labelColor=1a1a1a&logo=github">
-</a>
-<a href="mailto:richardoluoch2015@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-f5c024?style=for-the-badge&labelColor=1a1a1a&logo=gmail">
-</a>
-
-<br><br>
-
-[ PROJECTS ](#-featured-projects) :: [ TECH STACK ](#-tech-stack) :: [ ANALYTICS ](#-github-analytics) :: [ CONNECT ](#connect)
+<p>
+  <a href="https://github.com/autoUnmask">
+    <img src="https://img.shields.io/badge/GitHub-autoUnmask-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:richardoluoch2015@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## [ STATUS // SYSTEM_INFO ]
+## About
 
-<div align="center">
+I'm a software developer based in **Nairobi, Kenya**, interested in building reliable software that solves practical problems.
 
-| CODE | PARAMETER | VALUE | CONFIGURATION |
-| :---: | :--- | :--- | :--- |
-| `[OS]` | **Operating System** | `NixOS` | Declarative / Reproducible |
-| `[ED]` | **Text Editor** | `Neovim` | Lua-based Custom Environment |
-| `[SH]` | **Shell** | `Fish` | Modern Interactive CLI |
-| `[WM]` | **Window Manager** | `Hyprland` | Wayland Dynamic Compositor |
-| `[ST]` | **Active Stack** | `C • Java • Rust • Go` | Systems Programming |
+My current focus is **backend development, systems programming, Linux, and distributed applications**, with experience across web, database, and systems-oriented projects.
 
-</div>
+I'm particularly interested in:
 
-> "Build things that solve real problems. Keep systems simple. Automate repetitive work."
+- Backend & API development
+- Systems programming
+- Linux & developer tooling
+- Distributed systems
+- Databases and data-intensive applications
+- Software architecture
+- Practical automation
 
----
-
-## [ FEATURED_PROJECTS ]
-
-| PROJECT | PRIMARY TECH | DESCRIPTION |
-| :--- | :--- | :--- |
-| **Bus Tracking System** | `Python // Rust` | Real-time public transit tracking and ticketing system. |
-| **Attendance System** | `Java // Spring` | Local file integrity tracking and student register suite. |
-| **NixOS Config** | `Nix` | Fully declarative dotfiles utilizing Nix Flakes. |
-| **Neovim Config** | `Lua` | Highly tailored workflow featuring Oil.nvim and Neo-tree. |
+Currently studying **Software Engineering at Zetech University**.
 
 ---
 
-## [ CURRENT_FOCUS ]
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🚌 Real-Time Bus Tracking & Seat Reservation
 
-### [ DEPLOYING // LEARNING ]
+A public transport system designed around real-time vehicle tracking and seat reservation.
 
-* Advanced Nix & Flakes
-* Linux System Engineering
-* Software Architecture
-* Systems-level Backend Development
+**Stack:** `React` · `Go` · `PostgreSQL` · `PostGIS` · `Redis/Valkey` · `Docker`
 
-</td>
+The project explores separating the tracking and reservation domains while providing a practical foundation for Nairobi's public transport ecosystem.
 
-<td width="50%" valign="top">
-
-### [ EXECUTING // WORKING_ON ]
-
-* Real-Time Transit Engines
-* File Integrity Tools
-* Personal Environment Configs
-* Upstream Open Source Patches
-
-</td>
-</tr>
-</table>
+→ **[Bus-tracking](https://github.com/autoUnmask/Bus-tracking)**
 
 ---
 
-## [ TECH_STACK ]
+### 🔐 Hash Verification Checker
+
+A utility for verifying file hashes and detecting changes through cryptographic checksums.
+
+**Stack:** `Python`
+
+→ **[hash-verification-checker](https://github.com/autoUnmask/hash-verification-checker)**
+
+---
+
+### 🔒 Password Vault
+
+A local password-management project focused on secure storage and retrieval of credentials.
+
+**Stack:** `Python`
+
+→ **[Password-Vault](https://github.com/autoUnmask/Password-Vault)**
+
+---
+
+### 🏫 CBC Portal for Schools
+
+A web application exploring digital management of school-related information within the Kenyan CBC context.
+
+**Stack:** `Web Technologies`
+
+→ **[CBC-portal-For-Schools](https://github.com/autoUnmask/CBC-portal-For-Schools)**
+
+---
+
+## Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,php,javascript,bash,html,rust,css,golang&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=go,typescript,python,rust,java,javascript,php,html,css,lua,sql" />
 </p>
 
-### Development & Environments
+### Backend & Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,neovim&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,redis,docker" />
 </p>
 
-### Systems & Architecture
+### Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nix,docker&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap" />
 </p>
+
+### Linux & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,nix,git,github,vscode" />
+</p>
+
+**Environment:** `NixOS` · `Hyprland` · `Neovim` · `Fish`
 
 ---
 
-## [ GITHUB_ANALYTICS ]
+## What I'm Working On
 
-<!-- 
-  Custom styling applied to match the Evangelion/NERD-01 palette:
-  - Title Color: a0de59 (Toxic Neon Green)
-  - Text Color: ffffff (White)
-  - Icon Color: f5c024 (NERV Orange)
-  - BG Color: 120d16 (Deep Eva Purple hue)
--->
-| | |
-| --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true&title_color=a0de59&icon_color=f5c024&text_color=ffffff&bg_color=120d16&hide_border=true" height="170px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact&title_color=a0de59&icon_color=f5c024&text_color=ffffff&bg_color=120d16&hide_border=true" height="170px" /> |
+```text
+Backend systems        ███████████████████░░
+Systems programming    ████████████████░░░░
+Linux / NixOS          ██████████████████░░
+Distributed systems    ██████████████░░░░░░
+Frontend engineering   ███████████████░░░░░
+```
+
+Currently exploring:
+
+- Go backend architecture
+- PostgreSQL & PostGIS
+- Distributed services
+- Docker-based development environments
+- Rust and systems programming
+- NixOS & declarative Linux environments
+- Real-time applications
 
 ---
 
-## [ CONTRIBUTION_STREAK ]
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=autoUnmask&currStreakNum=a0de59&sideNums=ffffff&sideLabels=a976c3&dates=f5c024&background=120d16&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact&hide_border=true&theme=transparent" height="165" />
+
 </div>
 
 ---
 
-## [ DEVELOPER_TIMELINE ]
+## Development Environment
 
-```mermaid
-timeline
-    title EVA_01: System Evolution
-    2018 : Terminal Initialization (Programming Start)
-    2021 : Kernel Migration (Linux Switch)
-    2024 : System Declaration (NixOS Upgrade)
-    2025 : Core Expansion (Open Source Contributions)
-    2026 : Full Stack Deployment (Active Builds)
+```text
+OS          NixOS
+WM          Hyprland
+Shell       Fish
+Editor      Neovim
+Terminal    Kitty
+Languages   Go · TypeScript · Python · Rust · Java · SQL
+Containers  Docker
+Database    PostgreSQL · MySQL
+```
+
+I enjoy building the environment as much as building the software.
+
+---
+
+## Connect
+
+<div align="center">
+
+**GitHub:** [github.com/autoUnmask](https://github.com/autoUnmask)
+
+**Email:** [richardoluoch2015@outlook.com](mailto:richardoluoch2015@outlook.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building software. Learning continuously. Solving real problems.
+
+</div>
