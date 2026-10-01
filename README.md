@@ -1,183 +1,135 @@
 <div align="center">
-
-# Richard Oluoch
-
-### Software Developer · Backend & Systems Engineering · Linux
-
-Building practical software, backend services, and Linux-based systems.
-
-<p>
-  <a href="https://github.com/autoUnmask">
-    <img src="https://img.shields.io/badge/GitHub-autoUnmask-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:richardoluoch2015@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-</p>
-
+  <img src="./assets/header.svg" alt="Richard Oluoch — fastfetch" width="860"/>
 </div>
 
----
+<br>
 
-## About
-
-I'm a software developer based in **Nairobi, Kenya**, interested in building reliable software that solves practical problems.
-
-My current focus is **backend development, systems programming, Linux, and distributed applications**, with experience across web, database, and systems-oriented projects.
-
-I'm particularly interested in:
-
-- Backend & API development
-- Systems programming
-- Linux & developer tooling
-- Distributed systems
-- Databases and data-intensive applications
-- Software architecture
-- Practical automation
-
-Currently studying **Software Engineering at Zetech University**.
-
----
-
-## Featured Projects
-
-### 🚌 Real-Time Bus Tracking & Seat Reservation
-
-A public transport system designed around real-time vehicle tracking and seat reservation.
-
-**Stack:** `React` · `Go` · `PostgreSQL` · `PostGIS` · `Redis/Valkey` · `Docker`
-
-The project explores separating the tracking and reservation domains while providing a practical foundation for Nairobi's public transport ecosystem.
-
-→ **[Bus-tracking](https://github.com/autoUnmask/Bus-tracking)**
-
----
-
-### 🔐 Hash Verification Checker
-
-A utility for verifying file hashes and detecting changes through cryptographic checksums.
-
-**Stack:** `Python`
-
-→ **[hash-verification-checker](https://github.com/autoUnmask/hash-verification-checker)**
-
----
-
-### 🔒 Password Vault
-
-A local password-management project focused on secure storage and retrieval of credentials.
-
-**Stack:** `Python`
-
-→ **[Password-Vault](https://github.com/autoUnmask/Password-Vault)**
-
----
-
-### 🏫 CBC Portal for Schools
-
-A web application exploring digital management of school-related information within the Kenyan CBC context.
-
-**Stack:** `Web Technologies`
-
-→ **[CBC-portal-For-Schools](https://github.com/autoUnmask/CBC-portal-For-Schools)**
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,typescript,python,rust,java,javascript,php,html,css,lua,sql" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,redis,docker" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap" />
-</p>
-
-### Linux & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,nix,git,github,vscode" />
-</p>
-
-**Environment:** `NixOS` · `Hyprland` · `Neovim` · `Fish`
-
----
-
-## What I'm Working On
-
-```text
-Backend systems        ███████████████████░░
-Systems programming    ████████████████░░░░
-Linux / NixOS          ██████████████████░░
-Distributed systems    ██████████████░░░░░░
-Frontend engineering   ███████████████░░░░░
+```
+❯ cat about.txt
 ```
 
-Currently exploring:
+Software developer focused on backend systems, distributed applications, and systems programming.
+I build things that are reliable, practical, and grounded in real use cases — currently with a
+particular interest in geospatial backends and Go service architecture.
 
-- Go backend architecture
-- PostgreSQL & PostGIS
-- Distributed services
-- Docker-based development environments
-- Rust and systems programming
-- NixOS & declarative Linux environments
-- Real-time applications
+Completing a **Diploma in Software Engineering** at Zetech University. Open to opportunities.
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact&hide_border=true&theme=transparent" height="165" />
-
-</div>
-
----
-
-## Development Environment
-
-```text
-OS          NixOS
-WM          Hyprland
-Shell       Fish
-Editor      Neovim
-Terminal    Kitty
-Languages   Go · TypeScript · Python · Rust · Java · SQL
-Containers  Docker
-Database    PostgreSQL · MySQL
+```
+❯ ls -la ./projects/
 ```
 
-I enjoy building the environment as much as building the software.
+<br>
+
+### Bus-tracking
+
+Real-time public transport system with geospatial vehicle tracking and seat reservation, built for Nairobi's transit context. The core challenge was cleanly separating the tracking and reservation domains while keeping both reactive to live data.
+
+```
+Go · React · PostgreSQL · PostGIS · Redis/Valkey · Docker
+```
+
+[github.com/autoUnmask/Bus-tracking](https://github.com/autoUnmask/Bus-tracking)
+
+<br>
+
+### hash-verification-checker
+
+CLI utility for verifying file integrity via cryptographic checksums. Detects tampering or corruption by comparing computed hashes against known-good values.
+
+```
+Python
+```
+
+[github.com/autoUnmask/hash-verification-checker](https://github.com/autoUnmask/hash-verification-checker)
+
+<br>
+
+### Password-Vault
+
+Local credential manager with secure storage and retrieval. Built around encryption-at-rest for stored passwords with a clean CLI interface.
+
+```
+Python
+```
+
+[github.com/autoUnmask/Password-Vault](https://github.com/autoUnmask/Password-Vault)
+
+<br>
+
+### CBC-portal-For-Schools
+
+Web portal for managing school records within Kenya's Competency Based Curriculum framework. My first substantial project — a PHP/MySQL application that handles student data, grading, and reporting across school departments.
+
+```
+PHP · MySQL
+```
+
+[github.com/autoUnmask/CBC-portal-For-Schools](https://github.com/autoUnmask/CBC-portal-For-Schools)
 
 ---
 
-## Connect
+```
+❯ cat stack.conf
+```
+
+```toml
+[languages]
+primary = ["Go", "TypeScript", "Rust", "C++"]
+
+[web]
+runtime    = ["Node.js"]
+frontend   = ["React", "Tailwind CSS"]
+
+[data]
+databases  = ["PostgreSQL", "Redis"]
+extensions = ["PostGIS"]
+
+[tooling]
+containers = ["Docker"]
+vcs        = ["Git"]
+```
+
+---
+
+```
+❯ gh stats autoUnmask
+```
 
 <div align="center">
-
-**GitHub:** [github.com/autoUnmask](https://github.com/autoUnmask)
-
-**Email:** [richardoluoch2015@outlook.com](mailto:richardoluoch2015@outlook.com)
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true&hide_border=true&rank_icon=github&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true&hide_border=true&rank_icon=github&bg_color=e1e2e7&title_color=2e7de9&icon_color=9854f1&text_color=3760bf"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=autoUnmask&show_icons=true&hide_border=true&rank_icon=github&bg_color=1a1b26&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="160"/>
+  </picture>
+  &nbsp;
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact&hide_border=true&bg_color=e1e2e7&title_color=2e7de9&text_color=3760bf"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=autoUnmask&layout=compact&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" height="160"/>
+  </picture>
 </div>
 
 ---
 
-<div align="center">
+```
+❯ cat contact.txt
+```
 
-### Building software. Learning continuously. Solving real problems.
-
-</div>
+```
+GitHub  →  github.com/autoUnmask
+Email   →  richardoluoch2015@outlook.com
+```

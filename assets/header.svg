@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" width="860" height="300">
+  <defs>
+    <style>
+      .bg       { fill: #1a1b26; }
+      .titlebar { fill: #16161e; }
+      .dot-r    { fill: #f7768e; }
+      .dot-y    { fill: #e0af68; }
+      .dot-g    { fill: #9ece6a; }
+      .ascii    { fill: #7aa2f7; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .label    { fill: #bb9af7; font-family: 'Courier New', Courier, monospace; font-size: 13px; font-weight: bold; }
+      .value    { fill: #c0caf5; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .dim      { fill: #565f89; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .sep      { fill: #414868; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .p-user   { fill: #9ece6a; font-family: 'Courier New', Courier, monospace; font-size: 13px; font-weight: bold; }
+      .p-host   { fill: #7aa2f7; font-family: 'Courier New', Courier, monospace; font-size: 13px; font-weight: bold; }
+      .p-at     { fill: #c0caf5; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .title-t  { fill: #565f89; font-family: 'Courier New', Courier, monospace; font-size: 12px; }
+    </style>
+  </defs>
+
+  <!-- Window -->
+  <rect width="860" height="300" rx="10" ry="10" class="bg"/>
+
+  <!-- Title bar -->
+  <rect width="860" height="32" rx="10" ry="10" class="titlebar"/>
+  <rect y="16" width="860" height="16" class="titlebar"/>
+  <circle cx="20" cy="16" r="6" class="dot-r"/>
+  <circle cx="40" cy="16" r="6" class="dot-y"/>
+  <circle cx="60" cy="16" r="6" class="dot-g"/>
+  <text x="430" y="21" text-anchor="middle" class="title-t">richard@nixos — ~</text>
+
+  <!-- Prompt -->
+  <text x="20" y="58" class="p-user">richard</text>
+  <text x="83" y="58" class="p-at">@</text>
+  <text x="96" y="58" class="p-host">nixos</text>
+  <text x="148" y="58" class="value"> ~ ❯ fastfetch</text>
+
+  <!-- ASCII art (RICH in block letters) -->
+  <text x="24" y="86"  class="ascii">██████╗ ██╗ ██████╗██╗  ██╗</text>
+  <text x="24" y="102" class="ascii">██╔══██╗██║██╔════╝██║  ██║</text>
+  <text x="24" y="118" class="ascii">██████╔╝██║██║     ███████║</text>
+  <text x="24" y="134" class="ascii">██╔══██╗██║██║     ██╔══██║</text>
+  <text x="24" y="150" class="ascii">██║  ██║██║╚██████╗██║  ██║</text>
+  <text x="24" y="166" class="ascii">╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝</text>
+  <text x="24" y="184" class="sep">─────────────────────────────</text>
+  <text x="24" y="200" class="dim">Software Developer · Nairobi, Kenya</text>
+
+  <!-- Info panel -->
+  <text x="330" y="86"  class="p-user">richard</text>
+  <text x="393" y="86"  class="p-at">@</text>
+  <text x="406" y="86"  class="p-host">nixos</text>
+  <text x="330" y="102" class="sep">──────────────────────────────────────</text>
+
+  <text x="330" y="118" class="label">Degree   </text>
+  <text x="420" y="118" class="value">Diploma · Software Engineering</text>
+
+  <text x="330" y="134" class="label">School   </text>
+  <text x="420" y="134" class="value">Zetech University</text>
+
+  <text x="330" y="150" class="label">Focus    </text>
+  <text x="420" y="150" class="value">Backend · Systems · Distributed</text>
+
+  <text x="330" y="166" class="label">Primary  </text>
+  <text x="420" y="166" class="value">Go · Rust · TypeScript</text>
+
+  <text x="330" y="182" class="label">Data     </text>
+  <text x="420" y="182" class="value">PostgreSQL · PostGIS · Redis</text>
+
+  <text x="330" y="198" class="label">Location </text>
+  <text x="420" y="198" class="value">Nairobi, Kenya</text>
+
+  <text x="330" y="214" class="label">Status   </text>
+  <text x="420" y="214" class="value" style="fill:#9ece6a;">Open to opportunities</text>
+
+  <!-- Palette -->
+  <text x="330" y="242" class="sep">──────────────────────────────────────</text>
+  <rect x="330" y="252" width="20" height="20" rx="3" fill="#f7768e"/>
+  <rect x="354" y="252" width="20" height="20" rx="3" fill="#ff9e64"/>
+  <rect x="378" y="252" width="20" height="20" rx="3" fill="#e0af68"/>
+  <rect x="402" y="252" width="20" height="20" rx="3" fill="#9ece6a"/>
+  <rect x="426" y="252" width="20" height="20" rx="3" fill="#73daca"/>
+  <rect x="450" y="252" width="20" height="20" rx="3" fill="#7dcfff"/>
+  <rect x="474" y="252" width="20" height="20" rx="3" fill="#7aa2f7"/>
+  <rect x="498" y="252" width="20" height="20" rx="3" fill="#bb9af7"/>
+
+  <!-- Cursor prompt -->
+  <text x="20" y="230" class="p-user">richard</text>
+  <text x="83" y="230" class="p-at">@</text>
+  <text x="96" y="230" class="p-host">nixos</text>
+  <text x="148" y="230" class="value"> ~ ❯ </text>
+  <text x="183" y="230" class="dim">█</text>
+</svg>
